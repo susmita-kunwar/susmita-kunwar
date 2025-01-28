@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita-kunwar&label=Profile%20views&color=0e75b6&style=flat" alt="susmita-kunwar" /> </p>
 
-- 🔭 I’m currently working on [Karmachari: WebApp](https://github.com/susmita-kunwar/Karmachari-BackEnd)
-
-- 🌱 I’m currently learning **CSS, HTML**
+- 🌱 I’m currently learning **Data Scince**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
